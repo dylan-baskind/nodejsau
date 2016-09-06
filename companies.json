@@ -20,6 +20,17 @@
   "twitter" : "thethinkmill",
   "hiring": "mailto:hello@thinkmill.com.au"
 }
+{
+  "name": "Qwilr",
+  "logo": "https://d27n4x47ow65v8.cloudfront.net/qwilr-logo.png",
+  "url": "https://qwilr.com",
+  "description": "Qwilr is building documents for the modern web-era. JavaScript end to end.",
+  "githubUrl": "https://github.com/dylan-baskind",
+  "githubLogin": "dylan-baskind",
+  "location": "Sydney",
+  "twitter": "qwilr",
+  "hiring": "https://qwilr.com/about/careers/"
+}
 ,
 {
   "name": "Snappy Apps",
